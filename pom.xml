@@ -18,12 +18,12 @@
   <repository>
     <id>releases</id>
     <!-- CHANGE HERE by your team nexus server -->
-    <url>http://54.144.113.121:8081/repository/maven-releases/</url>
+    <url>http://184.72.162.128:8081/repository/maven-releases/</url>
   </repository>
   <snapshotRepository>
     <id>snapshots</id>
     <!-- CHANGE HERE by your team nexus server -->
-    <url>http://54.144.113.121:8081/repository/maven-snapshots/</url>
+    <url>http://184.72.162.128:8081/repository/maven-snapshots/</url>
   </snapshotRepository>
 </distributionManagement>
   
